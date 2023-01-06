@@ -1,2 +1,6 @@
 Link para o download do Git: https://git-scm.com/downloads
 o GitBash é um terminal extendido para otimizar o uso do Git
+Para adicionar uma atualização no git precisa colocar o comando add .
+Para fazer um comentário na atualização precisa colocar o comando commit -m " "
+Sempre colocar entre aspas as atualizações que você fez, e que os comentários sejam coerentes 
+Para levar a atualização (os commits) ao gitHub(nuvem) precisa colocar o comando git push origin main
